@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivianmonaco99
 - 👀 I’m interested in aerospace engineering and statistics
 - 🌱 I’m currently learning how to build a satellite and code
-- 💞️ I’m looking to collaborate on astrology projects
+- 💞️ I’m looking to collaborate on astronomyprojects
 - 📫 How to reach me monacovivian07@gmail.com
 
 <!---
